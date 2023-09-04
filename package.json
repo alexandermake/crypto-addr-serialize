@@ -2,11 +2,11 @@
   "name": "crypto-addr-codec",
   "version": "0.1.8",
   "description": "Light weight package for serializing different crypto addresses",
-  "source": "dist/index.js",
-  "main": "dist/index.js",
+  "source": "lib/index.js",
+  "main": "lib/index.js",
   "exports": {
-    "require": "./dist/index.js",
-    "import": "./dist/index.js"
+    "require": "./lib/index.js",
+    "import": "./lib/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
